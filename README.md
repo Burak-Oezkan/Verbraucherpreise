@@ -6,3 +6,8 @@ Das sind meine persönlichen Data Analysis Projekte. Der Ablauf der Projekte kan
     * Data Cleaning in PowerQuery und Python
     * Exploratory Data Analysis in Python und PowerBI
     * Erstellung des Dashboards in PowerBI
+
+    * Dashboard:
+        * Power BI Datei:'Projekt - Verbraucherpreis.pbix'
+        * Vorstellung in PowerPoint: 'Vorstellung-Dashboard.pptx'
+        * Vorschau als PDF: 'Projekt - Verbraucherpreis.pdf'
