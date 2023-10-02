@@ -8,9 +8,9 @@
 
     * Data Cleaning und EDA: ['Verbraucherpreise/0-Verbraucherpreise.ipynb'](https://github.com/Burak-Oezkan/verbraucherpreise/blob/9589d97655a743d6ebdd10cf63357eb441ff02b4/Verbraucherpreise/0-Verbraucherpreise.ipynb)
     * Dashboard:
-        * Power BI Datei: ['Projekt-Verbraucherpreis.pbix'](https://github.com/Burak-Oezkan/verbraucherpreise/blob/9589d97655a743d6ebdd10cf63357eb441ff02b4/Verbraucherpreise/Projekt-Verbraucherpreis.pbix)
-        * Vorstellung in PowerPoint: [['Vorstellung-Dashboard.pptx'](https://github.com/Burak-Oezkan/verbraucherpreise/blob/9589d97655a743d6ebdd10cf63357eb441ff02b4/Verbraucherpreise/Vorstellung-Dashboard.pptx)](https://github.com/Burak-Oezkan/verbraucherpreise/blob/9589d97655a743d6ebdd10cf63357eb441ff02b4/Verbraucherpreise/Projekt-Verbraucherpreis.pdf)
-        * Vorschau als PDF: ['Projekt-Verbraucherpreis.pdf'](https://github.com/Burak-Oezkan/verbraucherpreise/blob/9589d97655a743d6ebdd10cf63357eb441ff02b4/Verbraucherpreise/Vorstellung-Dashboard.pptx)
+        * Power BI Datei: ['Verbraucherpreise/Projekt-Verbraucherpreis.pbix'](https://github.com/Burak-Oezkan/verbraucherpreise/blob/9589d97655a743d6ebdd10cf63357eb441ff02b4/Verbraucherpreise/Projekt-Verbraucherpreis.pbix)
+        * Vorstellung in PowerPoint:  ['Verbraucherpreise/Vorstellung-Dashboard.pptx'](https://github.com/Burak-Oezkan/verbraucherpreise/blob/e758bea3eac863e08cee20a563f1b5b2f5bd931b/Verbraucherpreise/Vorstellung-Dashboard.pptx)
+        * Vorschau als PDF: ['Verbraucherpreise/Projekt-Verbraucherpreis.pdf'](https://github.com/Burak-Oezkan/verbraucherpreise/blob/9589d97655a743d6ebdd10cf63357eb441ff02b4/Verbraucherpreise/Vorstellung-Dashboard.pptx)
 
 ## Übersicht
 
