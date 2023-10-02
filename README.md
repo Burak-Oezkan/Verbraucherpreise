@@ -1,6 +1,6 @@
 # verbraucherpreise
 
-![Dashboard über die Entwicklung der Verbraucherpreise](Verbraucherpreise/Bilder/4-1-Dashboard.png)
+![Dashboard über die Entwicklung der Verbraucherpreise](https://github.com/Burak-Oezkan/verbraucherpreise/blob/main/Verbraucherpreise/Bilder/4-1-Dashboard.png)
 1. Untersuchung der Verbraucherpreise 2023:
     * Data Cleaning in PowerQuery und Python
     * Exploratory Data Analysis in PowerBI
