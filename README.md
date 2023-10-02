@@ -2,14 +2,15 @@
 
 ![Dashboard über die Entwicklung der Verbraucherpreise](https://github.com/Burak-Oezkan/verbraucherpreise/blob/main/Verbraucherpreise/Bilder/4-1-Dashboard.png)
 1. Untersuchung der Verbraucherpreise 2023:
-    * Data Cleaning in PowerQuery und Python
-    * Exploratory Data Analysis in PowerBI
+    * Data Cleaning in PowerQuery und Python 
+    * Exploratory Data Analysis (EDA) in PowerBI
     * Erstellung des Dashboards in PowerBI
 
+    * Data Cleaning und EDA: ['Verbraucherpreise/0-Verbraucherpreise.ipynb'](https://github.com/Burak-Oezkan/verbraucherpreise/blob/9589d97655a743d6ebdd10cf63357eb441ff02b4/Verbraucherpreise/0-Verbraucherpreise.ipynb)
     * Dashboard:
-        * Power BI Datei: 'Projekt-Verbraucherpreis.pbix'
-        * Vorstellung in PowerPoint: 'Vorstellung-Dashboard.pptx'
-        * Vorschau als PDF: 'Projekt-Verbraucherpreis.pdf'
+        * Power BI Datei: ['Projekt-Verbraucherpreis.pbix'](https://github.com/Burak-Oezkan/verbraucherpreise/blob/9589d97655a743d6ebdd10cf63357eb441ff02b4/Verbraucherpreise/Projekt-Verbraucherpreis.pbix)
+        * Vorstellung in PowerPoint: [['Vorstellung-Dashboard.pptx'](https://github.com/Burak-Oezkan/verbraucherpreise/blob/9589d97655a743d6ebdd10cf63357eb441ff02b4/Verbraucherpreise/Vorstellung-Dashboard.pptx)](https://github.com/Burak-Oezkan/verbraucherpreise/blob/9589d97655a743d6ebdd10cf63357eb441ff02b4/Verbraucherpreise/Projekt-Verbraucherpreis.pdf)
+        * Vorschau als PDF: ['Projekt-Verbraucherpreis.pdf'](https://github.com/Burak-Oezkan/verbraucherpreise/blob/9589d97655a743d6ebdd10cf63357eb441ff02b4/Verbraucherpreise/Vorstellung-Dashboard.pptx)
 
 ## Übersicht
 
