@@ -8,7 +8,7 @@
     * Erstellung des Dashboards in PowerBI
 
     * Dashboard:
-        * Power BI Datei:'Projekt-Verbraucherpreis.pbix'
+        * Power BI Datei: 'Projekt-Verbraucherpreis.pbix'
         * Vorstellung in PowerPoint: 'Vorstellung-Dashboard.pptx'
         * Vorschau als PDF: 'Projekt-Verbraucherpreis.pdf'
 
